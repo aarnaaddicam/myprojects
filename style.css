@@ -1,0 +1,39 @@
+body{
+  text-align:center;
+  background:lavender;
+
+  background-repeat:no repeat;
+}
+
+img{
+  border-radius:70%;
+  width:30%;
+}
+
+h1{
+  line-height: 10px;
+}
+
+.links{
+    list-style:none;
+    float:right;
+    padding: 8px;
+    top:10px;
+    right:30px;;
+    cursor: pointer;
+    color: red;
+}
+
+#pg{
+    font-family: "Courgette", cursive;
+}
+
+/*#about{
+   background:green;
+}*/
+
+#play {
+    text-align:center;
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);    
+  background-repeat:no-repeat;
+}
